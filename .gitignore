@@ -1,0 +1,7 @@
+# All
+*/.env
+*/.env.local
+
+# UI
+bon-city-ui/.next
+bon-city-ui/node_modules
